@@ -12,7 +12,8 @@ import (
 	"github.com/Seaman-hub/livego/protocol/rtmp/rtmprelay"
 
 	jwtmiddleware "github.com/auth0/go-jwt-middleware"
-	"github.com/dgrijalva/jwt-go"
+	// "github.com/dgrijalva/jwt-go"
+	"github.com/form3tech-oss/jwt-go"
 	log "github.com/sirupsen/logrus"
 )
 
